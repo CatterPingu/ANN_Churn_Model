@@ -57,6 +57,6 @@ Accuracy score was calculated using the predicted values and test data.
 
 The accuracy score of the model was found to be 0.86, indicating that the model performed well in predicting the churn rate of bank customers.
 
-Conclusion
+## Conclusion
 
 The Artificial Neural Network (ANN) model developed in this project can be used by banks to predict the churn rate of their customers, which can help them to take necessary actions to retain customers.
